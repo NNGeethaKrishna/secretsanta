@@ -1,0 +1,7 @@
+javax.sql.DataSource:
+   bookDataSource:
+                dataSourceClassName: com.mysql.cj.jdbc.MysqlDataSource
+                dataSource:
+                    URL: jdbc:mysql://localhost:3306/mysql
+                    user: root
+                    password: Omsrirama@123

@@ -1,0 +1,6 @@
+io\helidon\examples\quickstart\mp\pojo\Book.class
+io\helidon\examples\quickstart\mp\BookRepository_Jdbc.class
+io\helidon\examples\quickstart\mp\resources\BookResource_JPA.class
+io\helidon\examples\quickstart\mp\BookRepository_JPA.class
+io\helidon\examples\quickstart\mp\resources\MyResource.class
+io\helidon\examples\quickstart\mp\resources\BookResource.class
